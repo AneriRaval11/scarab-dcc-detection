@@ -1,0 +1,5 @@
+features,band,n_pixels,n_dcc,dcc_share_pct,dcc_recall_pct,false_alarm_pct
+all features,Near-nadir (incidence angle < 26 deg),11131,71,0.64,100.0,2.16
+all features,Off-nadir (incidence angle >= 26 deg),15313,995,6.5,76.88,9.71
+without TB1,Near-nadir (incidence angle < 26 deg),11131,71,0.64,100.0,2.42
+without TB1,Off-nadir (incidence angle >= 26 deg),15313,995,6.5,72.06,7.85

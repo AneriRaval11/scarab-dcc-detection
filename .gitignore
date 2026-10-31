@@ -1,0 +1,10 @@
+# Satellite data and derived arrays are not redistributed; download from MOSDAC
+data/*
+!data/README.md
+*.h5
+*.hdf5
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
